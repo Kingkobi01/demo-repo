@@ -3,4 +3,4 @@ Some Description!
 
 ## Subheader
 
-Get up and Ead Something!!
+Get up and Eat Something!!
